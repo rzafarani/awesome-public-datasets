@@ -64,6 +64,7 @@ Complex Networks
 * `PyPI and Maven Dependency Network <http://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`_
 * `Scopus Citation Database <http://www.elsevier.com/online-tools/scopus>`_
 * `Stanford GraphBase (Steven Skiena) <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
+* `ASU Social Computing Data Repository <http://socialcomputing.asu.edu/>`_
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
